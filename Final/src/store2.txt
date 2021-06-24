@@ -1,0 +1,8 @@
+Room number 1 is Occupied by Ruby Dawson [5535013815] with 8 guests
+Room number 2 is Occupied by Rahim Andrews [5415319124] with 1 guests
+Room number 3 is Occupied by Martha Francis [5551238017] with 8 guests
+Room number 4 is Occupied by James Henson [5452091120] with 6 guests
+Room number 5 is Occupied by Slade Chang [5106001301] with 9 guests
+Room number 6 is Occupied by Joshua Parker [5474725319] with 2 guests
+Room number 7 is Occupied by Breanna Blevins [5337911745] with 7 guests
+Room number 8 is Occupied by Aspen Whitley [5141155105] with 8 guests

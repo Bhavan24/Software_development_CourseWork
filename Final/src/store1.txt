@@ -1,0 +1,8 @@
+Room number 1 is Occupied by Bhavan
+Room number 2 is Occupied by Emma
+Room number 3 is Occupied by Sophia
+Room number 4 is Occupied by James
+Room number 5 is Occupied by William
+Room number 6 is Occupied by Benjamin
+Room number 7 is Occupied by Mason
+Room number 8 is Occupied by Isabella
